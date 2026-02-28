@@ -3,7 +3,7 @@
 ## 1. Enlace al Tablero Trello
 
 🗂️ **Tablero oficial del proyecto:** 
-https://trello.com/invite/b/69a34b8346e8b7122a205171/ATTIef6e87fa0f57e08a98ddd892ba1ff049160174B1/modernos-y-tecnologicos
+(https://trello.com/invite/b/69a34b8346e8b7122a205171/ATTIef6e87fa0f57e08a98ddd892ba1ff049160174B1/modernos-y-tecnologicos)
 
 > **Nota:** Reemplazar el enlace con la URL real del tablero Trello una vez creado. El tablero debe contener las columnas: `Backlog`, `MVP (Must)`, `Should Have`, `Could Have`, `En Progreso`, `Hecho`.
 
